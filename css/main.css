@@ -16,7 +16,7 @@ p {
 }
 
 svg {
-    stroke-width: 3;
+    stroke-width: 2;
 }
 
 main {
@@ -87,8 +87,8 @@ img {
 }
 
 .size-6 {
-    width: 2rem;
-    height: 2rem;
+    width: 4rem;
+    height: 4rem;
 }
 
 .logo-wrapper {
